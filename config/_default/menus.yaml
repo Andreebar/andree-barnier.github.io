@@ -11,8 +11,12 @@ main:
     url: /#papers
     weight: 11
   - name: Talks
-    url: /#talks
+    identifier: talks
     weight: 12
+  - name: Posters
+    parent: talks
+    url: talks/posters/
+    weight: 10
   # - name: News
   #   url: /#news
   #   weight: 13
