@@ -58,7 +58,7 @@ sections:
       title: Recent Publications
       text: ""
       filters:
-        folders: ['publication']
+        folders: publication
         publication_type : ['preprint']
         exclude_featured: false
     design:
