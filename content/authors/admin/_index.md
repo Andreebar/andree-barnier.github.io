@@ -72,7 +72,13 @@ education:
     date_start: 2020-09-01
     date_end: 2021-07-30
     summary: |
-
+  
+  - area: BSc in Mathematics
+    institution: Sorbonne université
+    date_start: 2017-09-01
+    date_end: 2018-07-30
+    summary: |
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
