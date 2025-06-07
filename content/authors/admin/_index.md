@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Phd Student in applied mathematics
+title: Andrée Barnier
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
