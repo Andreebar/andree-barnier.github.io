@@ -52,15 +52,15 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD in applied mathematics
-    institution: INRAE, Université Paris-Saclay
-    date_start: 2022-10-01
-    date_end: ongoing
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Les mouvements commerciaux d’animaux constituent un vecteur privilégié pour la propagation de maladies infectieuses. En France, les exigences de traçabilité se sont traduites par la mise en place de bases de données nationales de suivi des animaux. Dans cette thèse, nous étudierons des modèles de graphes aléatoires spatialement explicites permettant de reproduire les interactions à courte et longue distance constatées empiriquement dans les mouvements commerciaux d’animaux. Nous nous placerons dans le cadre des réseaux scale-free percolation (SFP), qui combinent une inhomogénéité intrinsèque des nœuds avec un aléa dépendant de leur distance géographique. Nous établirons rigoureusement des relations générales entre les propriétés génératives du réseau (distance géographique et relations commerciales) et les caractéristiques des processus épidémiques qui s’y propagent. Nous combinerons ensuite les données de mouvements d’animaux avec des informations géographiques de haute résolution (SIG) pour aboutir à une représentation spatialisée des réseaux commerciaux d’animaux d’élevage permettant la calibration des modèles de graphes étudiés et l’étude de scénarios épidémiques variés.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://maiage.inrae.fr/fr/node/2558'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
