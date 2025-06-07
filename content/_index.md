@@ -60,7 +60,6 @@ sections:
       filters:
         folders: 
         - publication
-        publication_types : ['preprint']
         exclude_featured: false
     design:
       view: citation

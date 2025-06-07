@@ -9,4 +9,9 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+# Only show journal papers (type "2" in Wowchemy)
+filter:
+  publication_types: ["preprint"]  # Adjust to your paper's type
+
 ---
