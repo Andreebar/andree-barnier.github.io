@@ -34,6 +34,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: false
+    show_language_switcher: true
     logo:
       text: "Andrée Barnier"
 
